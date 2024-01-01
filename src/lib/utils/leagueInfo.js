@@ -26,7 +26,7 @@ export const managers = [
       "name": "Madhan",
       "managerID": "869720537918824448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "M&T Bank Stadium", // (optional)
-      "bio": "Football and Crab Cakes babyyyyy",
+      "bio": "Football and Crab Cakes babyyyyy", 
       "photo": "/managers/Madhan.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "bal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -85,7 +85,7 @@ export const managers = [
 {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Moose",
-      "managerID": "869720537918824448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "managerID": "864924829202141184",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "West Philadelphia born and raised", // (optional)
       "bio": "You lift yet bro?",
       "photo": "/managers/Moose.jpg", // square ratio recommended (no larger than 500x500)
@@ -126,7 +126,7 @@ export const managers = [
 {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Avi",
-      "managerID": "870185884270632960",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "managerID": "870183863362727936",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "Kyler Murray's Game room", // (optional)
       "bio": "Im tall like Kyler Murray but Bald like Josh Dobbs, Yesssssir",
       "photo": "/managers/Avi.jpg", // square ratio recommended (no larger than 500x500)
