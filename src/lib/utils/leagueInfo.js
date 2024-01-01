@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome Fantasy Football Members, I wanted to try soemthing different for our weekly recaps and information about the league in general, so I made website that contains all of the league's hisotrical infomation from when we started using the Sleeper App. Feel Free to take a look adn let me know if you have any suggestions on what to add on here.</p>
-   ;
+  <p>Welcome Fantasy Football Members, I wanted to try something different for our weekly recaps and information about the league in general, so I made a website that contains all of the league's historical information from when we started using the Sleeper App. Feel Free to take a look and let me know if you have any suggestions on what to add on here.</p>
 `;
+
 
 /*   STEP 3   */
 /*
