@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Madhan"
+      "name": "Madhan",
       "managerID": "869720537918824448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "M&T Bank Stadium", // (optional)
       "bio": "Football and Crab Cakes babyyyyy",
@@ -42,7 +42,7 @@ export const managers = [
     },
 {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Shay"
+      "name": "Shay",
       "managerID": "870185884270632960",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "Your's Mom's House", // (optional)
       "bio": "Jayson Tatum is only 19 years old",
@@ -61,7 +61,7 @@ export const managers = [
     },
 {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Surya"
+      "name": "Surya",
       "managerID": "870222803977318400",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "FedEx Field :(", // (optional)
       "bio": "It's never too late we're REOPENING",
