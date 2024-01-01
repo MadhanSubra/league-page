@@ -79,7 +79,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
 
-  
+  ]
   /*   !!  !!  IMPORTANT  !!  !! */
   /*
   Below is the most up to-date version of a manager. Please leave this commented out
