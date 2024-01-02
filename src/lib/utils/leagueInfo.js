@@ -1,4 +1,4 @@
-/*   STEP 1   */
+/*  STEP 1   */
 export const leagueID = "1000419875073933312"; // your league ID
 export const leagueName = "The League"; // your league name
 export const dues = 30; // (optional) used in template constitution page
