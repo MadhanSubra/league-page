@@ -129,7 +129,7 @@ export const managers = [
       "managerID": "870183863362727936",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "location": "Kyler Murray's Game room", // (optional)
       "bio": "Im tall like Kyler Murray but Bald like Josh Dobbs, Yesssssir",
-      "photo": "/managers/Avi.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Avi.JPEG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
